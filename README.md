@@ -2,7 +2,9 @@
 *It's fine when it's not your job on the line.*
 
 
-https://github.com/mi969139/AI-Takeover/assets/156256689/48160ba9-55e7-4f0d-8cfb-42966fa4db3a
+<video controls="" width="800" height="500" muted="" loop="" autoplay="">
+<source src="https://github.com/mi969139/AI-Takeover/assets/156256689/48160ba9-55e7-4f0d-8cfb-42966fa4db3a" type="video/mp4">
+</video>
 
 
 **Artist Statement:**
