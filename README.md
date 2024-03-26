@@ -3,7 +3,7 @@
 
 
 
-https://github.com/mi969139/AI-Takeover/assets/156256689/f5d8d6d9-e1fb-4883-9053-14e422f056ce
+<video src='https://youtu.be/ap5_VWT8wD0?si=IPSc-LKoXE0Gc2pA' width=180/>
 
 
 **Artist Statement:**
