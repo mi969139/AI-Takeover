@@ -2,8 +2,7 @@
 *It's fine when it's not your job on the line.*
 
 
-
-<video src='https://youtu.be/ap5_VWT8wD0?si=IPSc-LKoXE0Gc2pA' width=180/>
+https://github.com/mi969139/AI-Takeover/assets/156256689/48160ba9-55e7-4f0d-8cfb-42966fa4db3a
 
 
 **Artist Statement:**
