@@ -3,6 +3,9 @@
 
 
 
+https://github.com/mi969139/AI-Takeover/assets/156256689/f5d8d6d9-e1fb-4883-9053-14e422f056ce
+
+
 **Artist Statement:**
   For this project, I wanted to go with the overall theme of AI taking over human jobs. There is this fear that artists, writers, and developers will soon be replaced with generative AI programs, as they are typically cheaper for businesses over human staff. This in turn puts people out of jobs. However, whenever the people effected bring up their concerns online, it is common that people outside of the creative field begin to turn hostile, and say that maybe they deserve this treatment since it's unfair that not everyone can create like creatives can. For my pieces, I wanted to explore what it would be like if AI took over jobs outside of the creative field, and it makes me wonder how those people that were so hostile would feel if the shoe was on the other foot, and they were the ones out of a job. Would they cause the same uproar? Would they be just as scared of the uncertainty? AI is fine, so long as it's not your job on the line, right? 
   This project takes viewers through various industries outside of the creative field, in a world where AI has begun to replace human-roles in the workforce and taken control. From automotive repair to medical assistance, this project highlights the impact of AI on everyday lives and jobs. Each piece in the collection is serves as a snapshot of a job, task, or role that was once originally performed by a human, but now portrayed as if it were being taken over by an AI-controlled robot. "AI-Takeover" is a call out of the impact of job-displacement in the creative field, and asks the question if we should be so reliant on allowing AI to take over creative roles. 
