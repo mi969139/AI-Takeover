@@ -20,6 +20,19 @@ An example of one of the prompts put into ChatGPT3.5 and its output were:
   While no specific project directly influenced my overall theme of my project, the previous image generative projects did guide me towards which image generator I ended up using. I was considering using Dreamstudio again, but I was out of credits and did not want to pay for more (though I guess it didn't really matter because I paid the same amount to be able to use Midjourney...). This project moreso is based off of my current feelings for generative AI, in which I think it should be used as a resource for ideas, not for replacement entirely. 
     
 
-##Gallery
+**Gallery**
+![Accounting](https://github.com/mi969139/AI-Takeover/assets/156256689/88b172db-cfeb-4775-b0f7-02955a8f19a6)
+![Commericial Fisher](https://github.com/mi969139/AI-Takeover/assets/156256689/6e623789-ff96-46bc-8a32-2fcdd895d734)
+![Construction](https://github.com/mi969139/AI-Takeover/assets/156256689/267ce53e-4911-4fcc-9b78-f812585697d8)
+![Diner](https://github.com/mi969139/AI-Takeover/assets/156256689/1695143e-cb3b-49ba-86d8-83c72b948113)
+![Hospital](https://github.com/mi969139/AI-Takeover/assets/156256689/020670d0-050a-4918-a427-ccfcc8a78d83)
+![Judge](https://github.com/mi969139/AI-Takeover/assets/156256689/56a011c6-d889-49e9-9731-871010046b5a)
+![Mechanic](https://github.com/mi969139/AI-Takeover/assets/156256689/6f9d06d2-5093-477b-9569-04dd130a4b3f)
+![Police](https://github.com/mi969139/AI-Takeover/assets/156256689/57a2276a-d576-4719-84a9-ae1ef5759bde)
+![Tailor](https://github.com/mi969139/AI-Takeover/assets/156256689/0865fa27-91bc-44ff-93cc-821fa1876372)
+![Teacher](https://github.com/mi969139/AI-Takeover/assets/156256689/2704fae1-20e1-4ee8-8087-b01d5254dc31)
 
-(/AI-Takeover/Images/Accounting.png)
+
+
+
+
