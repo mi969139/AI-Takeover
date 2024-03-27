@@ -19,3 +19,7 @@ An example of one of the prompts put into ChatGPT3.5 and its output were:
 **Past Work Influence:**
   While no specific project directly influenced my overall theme of my project, the previous image generative projects did guide me towards which image generator I ended up using. I was considering using Dreamstudio again, but I was out of credits and did not want to pay for more (though I guess it didn't really matter because I paid the same amount to be able to use Midjourney...). This project moreso is based off of my current feelings for generative AI, in which I think it should be used as a resource for ideas, not for replacement entirely. 
     
+
+##Gallery
+
+(/AI-Takeover/Images/Accounting.png)
