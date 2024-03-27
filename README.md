@@ -1,7 +1,7 @@
 ## AI-Takeover
 *It's fine when it's not your job on the line.*
 
-[![AI Takeover](https://img.youtube.com/vi/)](https://www.youtube.com/watch?v=ap5_VWT8wD0)
+[![AI Takeover](https://img.youtube.com/vi/ap5_VWT8wD0/maxresdefault.jpg)](https://www.youtube.com/watch?v=ap5_VWT8wD0)
 
 
 **Artist Statement:**
